@@ -1,0 +1,20 @@
+Analysis & Synthesis Status : Successful - Tue May 03 23:16:27 2022
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : Project
+Top-level Entity Name : IITB_RISC
+Family : Arria II GX
+Logic utilization : N/A
+    Combinational ALUTs : 995
+    Memory ALUTs : 0
+    Dedicated logic registers : 3,207
+Total registers : 3207
+Total pins : 3
+Total virtual pins : 0
+Total block memory bits : 27,136
+DSP block 18-bit elements : 0
+Total GXB Receiver Channel PCS : 0
+Total GXB Receiver Channel PMA : 0
+Total GXB Transmitter Channel PCS : 0
+Total GXB Transmitter Channel PMA : 0
+Total PLLs : 0
+Total DLLs : 0

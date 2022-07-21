@@ -1,0 +1,22 @@
+Fitter Status : Failed - Tue May 03 23:20:18 2022
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : Project
+Top-level Entity Name : IITB_RISC
+Family : Arria II GX
+Device : EP2AGX45CU17I3
+Timing Models : Final
+Logic utilization : 10 %
+    Combinational ALUTs : 995 / 36,100 ( 3 % )
+    Memory ALUTs : 0 / 18,050 ( 0 % )
+    Dedicated logic registers : 3,207 / 36,100 ( 9 % )
+Total registers : 3207
+Total pins : 3 / 176 ( 2 % )
+Total virtual pins : 0
+Total block memory bits : 27,136 / 2,939,904 ( < 1 % )
+DSP block 18-bit elements : 0 / 232 ( 0 % )
+Total GXB Receiver Channel PCS : 0 / 4 ( 0 % )
+Total GXB Receiver Channel PMA : 0 / 4 ( 0 % )
+Total GXB Transmitter Channel PCS : 0 / 4 ( 0 % )
+Total GXB Transmitter Channel PMA : 0 / 4 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+Total DLLs : 0 / 2 ( 0 % )
